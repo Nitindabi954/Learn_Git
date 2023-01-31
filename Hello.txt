@@ -1,6 +1,0 @@
-Hello I'm learning git here with my own knowledge.
-Can you help me out to design and build a image.
-
-I have change this line for checking in my computer whether this file is change or not if not then I will pull this information in my computer using git pull command.
-
-ok fine, you have learn lots of thing today.
